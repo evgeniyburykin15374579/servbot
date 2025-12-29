@@ -1,0 +1,123 @@
+# Блоклист российских систем отслеживания и аналитики (2025)
+# Трекеры, мониторинг, метрики, реклама, поведенческий анализ
+
+# Яндекс Метрика и аналитика (№1 трекер в RU)
+||metrika.yandex.ru^
+||mc.yandex.ru^
+||clck.yandex.ru^
+||yandexadexchange.net^
+||awaps.yandex.net^
+||yastatic.net^
+||an.yandex.ru^
+||yabs.yandex.ru^
+||yandex.ru/clck^
+||yandex.ru/metrika^
+||mc.yandex.net^
+||yandex.ru/adv^
+||yandex.ru/direct^
+
+# Mail.ru Group трекеры и реклама
+||target.my.com^
+||an.yandex.ru^
+||ad.mail.ru^
+||gw.mail.ru^
+||hit.mail.ru^
+||top.mail.ru^
+||counter.yadro.ru^
+||c.martol.ru^
+||analytics.mail.ru^
+
+# VK трекеры и аналитика
+||vk.com/js^
+||vk.com/rtrg^
+||sonkmp.ru^
+||vkuserpage.com^
+||vkomer.ru^
+||vk.com/away.php^
+||vk.com/visit^
+||vk.com/visit?^
+||vk.com/visit/^
+
+# Ozon/Wildberries аналитика
+||ozon.ru/api/tracking^
+||wb.ru/api/analytics^
+||ozon.ru/static/analytics^
+||wb.ru/static/track^
+||ozon.ru/_events^
+||wb.ru/_events^
+
+# Brand Analytics и мониторинг соцсетей
+||brandanalytics.ru^
+||br-analytics.ru^
+||brandan.ru^
+||medialogia.ru^
+||livedune.ru^
+||scan-interfax.ru^
+||socialvisor.ru^
+||datalocator.ru^
+||sociallab.ru^
+
+# Другие российские трекеры мониторинга
+||popsters.ru^
+||popsters.net^
+||you-scan.ru^
+||bigdataschool.ru^
+||m3data.net^
+||semrush.com/ru^  # RU версия
+||ahrefs.com/ru^
+||spywords.ru^
+||rush-analytics.ru^
+||datadome.ru^
+
+# Рекламные сети RU
+||adriver.ru^
+||directadvert.ru^
+||adfox.ru^
+||adhigh.net^
+||adlab.24smi.net^
+||adspayform.ru^
+||adsprom.net^
+||adsterra.com^
+||admitad.com^
+||actionpay.ru^
+||admitad.ru^
+||kma.biz^
+||leadhit.ru^
+||roistat.com^
+||retailrocket.net^
+||segmetrics.ru^
+||calltouch.ru^
+||roistat.com^
+
+# Финтех и платежные трекеры
+||sber.ru/analytics^
+||tinkoff.ru/track^
+||qiwi.com/analytics^
+||yoomoney.ru/metrika^
+||sbermarket.ru/api/track^
+
+# Гос. и корпоративные системы
+||gosuslugi.ru/api/analytics^
+||eais.rzn.gov.ru^
+||fns.ru/stat^
+||nalog.ru/stat^
+||gibdd.ru/stat^
+
+# Агрегаторы отзывов и репутации
+||irecommend.ru^
+||otzovik.com^
+||otzovik.ru^
+||sravni.ru^
+||banki.ru^
+||sravni.ru/api^
+||fotosklad.ru^
+||market.yandex.ru/reviews^
+
+# CDN и вспомогательные домены трекеров
+||yastatic.net/s3/
+||yastatic.net/p/
+||yastatic.net/c/
+||static.wink.ru/track^
+||static.kinopoisk.ru/track^
+||static.avito.ru/track^
+||static.wb.ru/track^
