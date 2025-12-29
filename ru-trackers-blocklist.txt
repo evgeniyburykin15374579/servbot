@@ -121,3 +121,47 @@
 ||static.kinopoisk.ru/track^
 ||static.avito.ru/track^
 ||static.wb.ru/track^
+
+# Мобильная аналитика Яндекс (AppMetrica) - №1 в RU
+||appmetrica.yandex.ru^
+||appmetrica.yandex.net^
+||appmetrica.yandex.com^
+||metrica.yandex.ru/mobile^
+||yandex.ru/metrica/mobile^
+
+# VK мобильная аналитика
+||vk.com/appstats^
+||vk.me/stats^
+||vk.com/stats^
+||sonkmp.ru/mobile^
+
+# Mail.ru Group мобильные SDK
+||target.my.com/mobile^
+||analytics.mail.ru/mobile^
+||hit.mail.ru/mobile^
+
+# Ozon/WB мобильная аналитика
+||ozon.ru/api/mobile^
+||wb.ru/api/mobile^
+||ozon.ru/tracking/mobile^
+||wb.ru/tracking/mobile^
+
+# Sber/Tinkoff мобильные трекеры
+||sber.ru/mobile/analytics^
+||tinkoff.ru/mobile/track^
+||sbermarket.ru/mobile/stats^
+
+# Другие RU мобильные аналитики
+||roistat.com/mobile^
+||retailrocket.net/mobile^
+||leadhit.ru/mobile^
+||calltouch.ru/mobile^
+||segmetrics.ru/mobile^
+
+# Российские аналоги Firebase/Google Analytics
+||adjust.com/ru^     # RU партнеры
+||appsflyer.com/ru^
+||amplitude.com/ru^
+||mixpanel.com/ru^
+
+
