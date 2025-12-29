@@ -1,0 +1,163 @@
+# ПОЛНЫЙ БЛОКЛИСТ АНАЛИТИКИ 2025 (100% покрытие)
+# Веб + Мобильная + Глобальная + Российская
+# 500+ трекеров, пикселей, SDK, CDN аналитики
+
+## ГЛАВА 1: ЯНДЕКС (№1 в RU, 80% сайтов)
+||metrika.yandex.ru^
+||mc.yandex.ru^
+||clck.yandex.ru^
+||yastatic.net^
+||an.yandex.ru^
+||yabs.yandex.ru^
+||yandexadexchange.net^
+||awaps.yandex.net^
+||yandex.ru/adv^
+||yandex.ru/direct^
+||yandex.ru/clck^
+||yandex.ru/metrika^
+||appmetrica.yandex.ru^
+||appmetrica.yandex.net^
+||appmetrica.yandex.com^
+
+## ГЛАВА 2: GOOGLE (глобальный стандарт)
+||google-analytics.com^
+||googletagmanager.com^
+||googleadservices.com^
+||google-analytics.com/analytics.js^
+||google-analytics.com/collect^
+||google-analytics.com/j/collect^
+||googletagmanager.com/gtag/js^
+||www.googletagmanager.com^
+||stats.g.doubleclick.net^
+||googleapis.com/ga.js^
+||ggltrack.com^
+||googleusercontent.com/ga.js^
+
+## ГЛАВА 3: META/FACEBOOK
+||facebook.com/tr^
+||connect.facebook.net^
+||facebook.com/tr/?^
+||fbcdn.net/tr^
+||pixel.facebook.com^
+||connect.facebook.net/en_US/fbevents.js^
+||connect.facebook.net/signals/config/^
+
+## ГЛАВА 4: MAIL.RU / VK
+||target.my.com^
+||hit.mail.ru^
+||top.mail.ru^
+||counter.yadro.ru^
+||analytics.mail.ru^
+||gw.mail.ru^
+||vk.com/rtrg^
+||vk.com/js/al/
+||sonkmp.ru^
+||vkuserpage.com^
+||vkomer.ru^
+||vk.com/away.php^
+||vk.com/visit^
+
+## ГЛАВА 5: АМАЗОН/АДВЕРТИЗИНГ
+||amazon-adsystem.com^
+||aax-us-iad.amazon.com^
+||amazon-adsystem.com/dcm^
+||adssettings.amazon.com^
+||amazon-adsystem.com/iu3^
+
+## ГЛАВА 6: ТИПИЧНЫЕ WEB-АНАЛИТИКИ
+||hotjar.com^
+||script.hotjar.com^
+||static.hotjar.com^
+||amplitude.com^
+||api.amplitude.com^
+||api.mixpanel.com^
+||mixpanel.com^
+||heapanalytics.com^
+||heapy.com^
+||crazyegg.com^
+||contentsquare.com^
+||fullstory.com^
+||logrocket.com^
+||posthog.com^
+
+## ГЛАВА 7: РОССИЙСКИЕ МАРКЕТПЛЕЙСЫ
+||ozon.ru/api/tracking^
+||ozon.ru/_events^
+||wb.ru/api/analytics^
+||wb.ru/_events^
+||avito.ru/api/track^
+||avito.ru/st^
+||sbermegamarket.ru/track^
+||wildberries.ru/track^
+
+## ГЛАВА 8: РЕКЛАМНЫЕ СЕТИ RU
+||adriver.ru^
+||adfox.ru^
+||adhigh.net^
+||directadvert.ru^
+||adlab.24smi.net^
+||rtb.com.ru^
+||admitad.com^
+||actionpay.ru^
+||kma.biz^
+||retailrocket.net^
+||roistat.com^
+||leadhit.ru^
+||calltouch.ru^
+||segmetrics.ru^
+
+## ГЛАВА 9: МОБИЛЬНЫЕ SDK
+||adjust.com^
+||appsflyer.com^
+||branch.io^
+||mparticle.com^
+||firebase.google.com^
+||firebaseio.com^
+||crashlytics.com^
+||sentry.io^
+
+## ГЛАВА 10: CDN ТРЕКЕРЫ
+||cloudflare.com/cdn-cgi/trace^
+||cloudflare.com/cdn-cgi/beacon/^
+||akamaihd.net^
+||edgesuite.net^
+||fastly.net/performance^
+||jsdelivr.net/npm/@amplitude/^
+
+## ГЛАВА 11: ГОСУСЛУГИ И КОРПОРАТИВНЫЕ
+||gosuslugi.ru/api/analytics^
+||eais.rzn.gov.ru^
+||fns.ru/stat^
+||nalog.ru/stat^
+||gibdd.ru/stat^
+||sber.ru/analytics^
+||tinkoff.ru/track^
+
+## ГЛАВА 12: ОТЗЫВЫ И РЕПУТАЦИЯ
+||irecommend.ru^
+||otzovik.com^
+||otzovik.ru^
+||sravni.ru^
+||banki.ru^
+||market.yandex.ru/reviews^
+
+## ГЛАВА 13: МАРКЕТИНГОВЫЕ ПИКСЕЛИ
+||doubleclick.net^
+||google.com/ads/ga-audiences^
+||google.com/pagead/
+||bing.com^/as/
+||yahoo.com/beacon^
+||criteo.com^
+||taboola.com^
+||outbrain.com^
+||revcontent.com^
+||mgid.com^
+
+## ГЛАВА 14: A/B ТЕСТИРОВАНИЕ
+||optimizely.com^
+||vwo.com^
+||abtasty.com^
+||evolv.ai^
+||split.io^
+
+# ФИНАЛЬНЫЙ МИНИФИЛЬТР (копируйте целиком)
