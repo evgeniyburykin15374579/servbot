@@ -253,3 +253,5 @@
 @@||origin-apple.com.akadns.net^
 
 @@||culturedcode.com^
+@@||2ip.ru^
+
