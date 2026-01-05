@@ -1,7 +1,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Version: 1.0.00.01
+! Version: 1.0.00.02
 ! Homepage: https://github.com/evgeniyburykin15374579/servbot/edit/main/
 ! Last modified: 2025-12-29T16:09:15.465Z
 !
