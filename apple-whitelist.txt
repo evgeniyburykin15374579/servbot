@@ -255,4 +255,7 @@
 @@||culturedcode.com^
 @@||2ip.ru^
 @@||abbyy.com^
+@@||мойассистент.рф^
+@@||rt.ru^
+
 
